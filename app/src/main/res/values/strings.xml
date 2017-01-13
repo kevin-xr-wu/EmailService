@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">EmailService</string>
+    <string name="loginText">Login Here</string>
+    <string name="usernameHint">Username</string>
+    <string name="passwordHint">Password</string>
+    <string name="buttonText">Login</string>
+    <string name="notification1">Creditentials are incorrect</string>
+    <string name="notification2">Please try again.</string>
+    <string name="login_registerButton">register</string>
+</resources>
